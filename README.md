@@ -49,7 +49,7 @@ Następnie łączymy nóżki czujnika z płytką stykową w sposób jaki przedst
 
 ## Wyniki
 
-![img](./wyniki.jpg)
+![img](./Wyniki.jpg)
 
 ## KOD
 ![img](./kod.jpg)
