@@ -43,13 +43,13 @@ Lutujemy konwerter I2C do wyświetlacza LCD i podłączamy w następujący spos�
 Następnie łączymy nóżki czujnika z płytką stykową w sposób jaki przedstawiono to w dokumentacji.
 
 
-![img](./image/temperatura1.jpg)
+![img](./temperatura1.jpg)
 
-![img](./image/temperatura2.jpg)
+![img](./temperatura2.jpg)
 
 ## Wyniki
 
-![img](./image/wyniki.jpg)
+![img](./wyniki.jpg)
 
 ## KOD
-![img](./image/kod.jpg)
+![img](./kod.jpg)
