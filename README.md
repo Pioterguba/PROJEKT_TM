@@ -1,7 +1,7 @@
 # PROJEKT_TM
 
 
-## Cel: Wyświetlenie temperatury w stopniach Celsjusia na wyświetlaczu przy pomocy czujnika temperatury 
+## Cel: Wyświetlenie temperatury w stopniach Celsjusza na wyświetlaczu przy pomocy czujnika temperatury 
 
 
 
