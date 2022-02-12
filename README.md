@@ -16,7 +16,7 @@
 
 https://botland.com.pl/konwertery-pozostale/2352-konwerter-i2c-dla-wyswietlacza-lcd-hd44780-5903351248693.html
 
-![img](./konwerter.png)
+![img](./konwerter.jpg)
 
 https://botland.com.pl/cyfrowe-czujniki-temperatury/165-czujnik-temperatury-ds18b20-cyfrowy-1-wire-tht-5904422366513.html
 
@@ -24,7 +24,7 @@ https://botland.com.pl/cyfrowe-czujniki-temperatury/165-czujnik-temperatury-ds18
 
 https://allegro.pl/oferta/zestaw-startowy-do-arduino-uno-r3-atmega328-ch340-10102800766  
 
-![img](./zestaw arduino.jpg)
+![img](./zestawarduino.jpg)
 
 https://modulosy.pl/wyswietlacze-alfanumeryczne-i-graficzne/338-wyswietlacz-lcd-2x16-1602-niebieski-ze-sterownikiem-hd44780-konwerter-i2c-5903689131766.html
 
@@ -49,7 +49,7 @@ Następnie łączymy nóżki czujnika z płytką stykową w sposób jaki przedst
 
 ## Wyniki
 
-![img](./image/wyniki.png)
+![img](./image/wyniki.jpg)
 
 ## KOD
-![img](./image/kod.png)
+![img](./image/kod.jpg)
